@@ -1,0 +1,25 @@
+body {
+
+    margin: 0%;
+    background-color: rgba(128, 128, 128, 0.158);
+}
+
+.div_1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    background-color: rgba(128, 128, 128, 0.144);
+}
+.Titulo-pagina {
+
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.Paragrafo1 {
+    
+    font-family: Arial, Helvetica, sans-serif;
+
+}
